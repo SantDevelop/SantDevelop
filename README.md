@@ -1,4 +1,4 @@
-# ¡Hola, soy [Diego] 👋
+# ¡Hola, soy Diego 👋
 
 Soy desarrollador Web y actualmente realizando el Grado superior DAM. Me apasiona todo lo relacionado con la informática resaltando la programación y me gusta colaborar en proyectos interesantes. 
 
